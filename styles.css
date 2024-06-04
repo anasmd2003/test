@@ -1,0 +1,180 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar ul {
+     
+     padding: 0px;
+     margin: 0px;
+     list-style: none;
+     overflow: hidden;
+}
+.navbar a {
+    text-decoration: none;
+    padding: 8px;
+    color:darkblue ;
+    display: flex;
+    text-align: center;
+    
+}
+.navbar li {
+    float: left;
+    padding: 10px;
+}
+
+.div1  {
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 0px;
+    
+}
+.div1 h2
+{   margin-left: 10px;
+    color: darkblue;
+}
+.div1 ul{   
+    overflow: hidden;
+}
+.div1 a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+}
+.div2 {
+    border-style: solid;
+    margin-left: 10px;
+    
+}
+.div2 h2 {
+    margin-left: 10px;
+    color: darkblue;
+}
+.div2 ul{   
+    overflow: hidden;
+}
+.div2 a{
+    text-decoration: none;
+    display: flex;
+    color: black;
+}
+.div3 {
+    border-style: solid;
+    margin-left: 10px;
+
+    
+}
+.div3 h2 {
+    margin-left: 10px;
+    color: darkblue;
+}
+.div3 ul{   
+    overflow: hidden;
+}
+.div3 a{
+    text-decoration: none;
+    display: flex;
+    color: black;
+}
+.div4 {
+    border-style: solid;
+    margin-left: 10px; 
+      
+}
+.div4 h2 {
+    margin-left: 10px;
+    color: darkblue;
+}
+.div5 {
+    border-style: solid;
+    margin-left: 10px; 
+    margin-top: 20px;
+}
+.div5 h2 {
+    margin-left: 10px;
+    color: darkblue;
+}
+.div6 {
+    border-style: solid;
+    margin-left: 10px;   
+}
+.div6 h2 {
+    margin-left: 10px;
+    color: darkblue;
+}
+.div7 {
+    border-style:solid;
+}
+
+
+.div8 {
+    width: 25%;
+    border: solid black;
+    position: relative;
+    margin: 3px;
+    height: 45%;
+    margin-left: 3px;
+}
+.div8 h2 {
+    color: darkblue;
+    margin: 10px;
+}
+.div9 { 
+    width: 25%;
+    height: 42%;
+    border: solid black;
+    position: absolute;
+    margin-left:5%;
+    top: 117rem;
+    right: 48%;
+   
+
+}
+.div9 h2 {
+    color: darkblue;
+    margin: 10px;
+}
+.div10 {
+    width: 23%;
+    height: 42%;
+    margin-left: 5%;
+    border: solid black;
+    position: absolute;
+    right: 24%;
+    top: 117rem;
+}
+.div10 h2 {
+    color: darkblue;
+    margin: 10px;
+}
+.div10  a{
+         color: black;
+         text-decoration: none;
+}
+.div11 {
+    width: 23%;
+    height: 42%;
+    margin-left: 3%;
+    border: solid black;
+    position: absolute;
+    right: 0%;
+    top: 117rem;
+    
+}
+.div11 h2 {
+    color: darkblue;
+    margin: 10px;
+}
+
+.div11  a{
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    background-color: darkblue;
+    width: 99%;
+    height: 5%;
+    padding: 1px;
+
+}
+
